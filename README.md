@@ -20,7 +20,7 @@ A couple things about me:
 - I am well-versed in computational and statistical methods including
   regression modeling, machine learning, and analysis pipeline
   development.
-- I have a wide-breadth of biology expertise working awith experimental systems
+- I have a wide-breadth of biology expertise working with experimental systems
   from bacteria to humans and at scales from the molecular to the
   systems-level.
 
