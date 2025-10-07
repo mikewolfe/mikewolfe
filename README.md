@@ -1,4 +1,4 @@
-# Michael Wolfe, Ph.D.
+# Mike Wolfe, Ph.D.
 
 I am a Bioinformatician (Scientist III) in the Cancer Informatics
 Shared Resource (CISR) at the Carbone Cancer Center at the University of
@@ -48,7 +48,7 @@ the smaller genome sizes of bacteria in mind.
 Here are repositories with code that is associated with a publication
 that I have contributed to.
 
-| Repository | Description |
+| Repo | Description |
 | -------- | ----------- |
 |[ShapeME](https://github.com/freddolino-lab/ShapeME)     | Mutual information-based tool for finding DNA-shape based binding motifs https://doi.org/10.1101/2025.01.28.635290 |
 |[Shen_H-NS_2022](https://github.com/mikewolfe/Shen_H-NS_2022)     | Bayesian model for analyzing E. coli H-NS footprinting data https://doi.org/10.1016/j.isci.2022.104429 |
@@ -67,7 +67,7 @@ Here are some extensions for working with quarto
 
 Here are some repositories I have made contributions to.
 
-| Extension | Description |
+| Repo | Description |
 | -------- | ----------- |
 |[MultiQC](https://github.com/mikewolfe/MultiQC) | Added support for some `pairtools` Hi-C reports |
 |[pyGenomeTracks](https://github.com/mikewolfe/pyGenomeTracks) | Added ability to specify an alpha for genome tracks |
@@ -76,7 +76,7 @@ Here are some repositories I have made contributions to.
 
 Here are some utility tools and scripts I have developed.
 
-| Extension | Description |
+| Repo | Description |
 | -------- | ----------- |
 |[pytools3](https://github.com/mikewolfe/pytools3) | A series of utility scripts and classes for dealing with genomic data |
 |[CMARRT_python](https://github.com/mikewolfe/CMARRT_python) | A python re-implimentation of CMARRT peak caller https://pmc.ncbi.nlm.nih.gov/articles/PMC2862456/ |
