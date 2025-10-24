@@ -3,7 +3,7 @@
 I am a Bioinformatician (Scientist III) in the Cancer Informatics
 Shared Resource (CISR) at the Carbone Cancer Center at the University of
 Wisconsin-Madison. I received my Ph.D. in Biological Chemistry and M.S. in
-Bioinformatics from the Univeristy of Michigan and my B.S. in
+Bioinformatics from the University of Michigan and my B.S. in
 Biomedical Engineering from the Ohio State University.
 
 I am broadly interested in the molecular mechanisms of gene regulation
@@ -79,13 +79,13 @@ Here are some utility tools and scripts I have developed.
 | Repo | Description |
 | -------- | ----------- |
 |[pytools3](https://github.com/mikewolfe/pytools3) | A series of utility scripts and classes for dealing with genomic data |
-|[CMARRT_python](https://github.com/mikewolfe/CMARRT_python) | A python re-implimentation of CMARRT peak caller https://pmc.ncbi.nlm.nih.gov/articles/PMC2862456/ |
+|[CMARRT_python](https://github.com/mikewolfe/CMARRT_python) | A python re-implementation of CMARRT peak caller https://pmc.ncbi.nlm.nih.gov/articles/PMC2862456/ |
 
 
 ## Teaching and Personal Development
 
 Here are some repositories associated with workshops, teaching, or
-personal development in my own continued education
+personal development in my own continued education.
 
 | Repo | Description |
 | -------- | ----------- |
