@@ -1,28 +1,19 @@
 # Mike Wolfe, Ph.D.
 
-I am a Bioinformatician (Scientist III) in the Cancer Informatics
-Shared Resource (CISR) at the Carbone Cancer Center at the University of
-Wisconsin-Madison. I received my Ph.D. in Biological Chemistry and M.S. in
-Bioinformatics from the University of Michigan and my B.S. in
-Biomedical Engineering from the Ohio State University.
+**Director of AI Research Solutions at Florida State University (FSU)**
 
-I am broadly interested in the molecular mechanisms of gene regulation
-that underlie how cancer cells respond to treatment, how bacteria
-develop antibiotic resistance, and how immune cells respond to their
-environment.
+I bridge the gap between cutting-edge AI and R1 scientific discovery. I focus on developing high-level strategy and support structures that empower domain experts to harness AI as a transformative force in their research.
 
-A couple things about me:
-- I have over 10 years of experience as an interdisciplinary researcher with
-  training in computational biology, biochemistry, and biomedical
-  engineering.
-- I have extensive experience with many -Omics methodologies including bulk
-  and scRNA-seq, ChIP-seq, and Hi-C.
-- I am well-versed in computational and statistical methods including
-  regression modeling, machine learning, and analysis pipeline
-  development.
-- I have a wide-breadth of biology expertise working with experimental systems
-  from bacteria to humans and at scales from the molecular to the
-  systems-level.
+I believe that putting AI tools directly into the hands of content experts is critical to ensure the ethical and accelerated advancement of science.
+
+**Expertise & Background**
+- **Interdisciplinary Focus:** 14+ years as a researcher at the intersection of Computational Biology, Biochemistry, and Biomedical Engineering.
+
+- **AI/ML & Data Science:** Well-versed in regression modeling, deep learning, and AI foundation model engineering. I specialize in building robust analysis pipelines for complex datasets.
+
+- **Educational Leadership**: Extensive experience in teaching and training, focusing on making high-level computational methods accessible to researchers across disciplines.
+
+- **Academic Background:** Ph.D. in Biological Chemistry & M.S. in Bioinformatics (University of Michigan) | B.S. in Biomedical Engineering (The Ohio State University).
 
 This README is intended to be a table of contents for my github
 repositories.
